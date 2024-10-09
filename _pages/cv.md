@@ -42,7 +42,7 @@ Publications
   * **Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation**  
   **Ru-Bin Li**, Man Sheng Chen, Xin-Yu Ding, Chang-Dong Wang, Sihong Xie, Shuangyin Liu, Min Chen, Mohsen Guizani  
   ICDM 2024  
-  [[Paper]](../assets/Periodic%20Prompt%20on%20Dynamic%20Heterogeneous%20Graph%20for%20Next%20Basket%20Recommendation.pdf)
+  [[Paper]](../assets/Periodic%20Prompt%20on%20Dynamic%20Heterogeneous%20Graph%20for%20Next%20Basket%20Recommendation.pdf) / [Code]
 
 * Patents
   * **A Communication Guideline System and Method Based on chatGLM Model** 
