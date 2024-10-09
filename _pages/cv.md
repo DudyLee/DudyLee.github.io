@@ -17,23 +17,21 @@ Education
 
 Research Experience
 ======
-* **Project Leader** | Analyze Travel Purpose Through Transportation Origin-Destination Data
+* **Project Leader** &emsp; Analyze Travel Purpose Through Transportation Origin-Destination Data
   * *02/2024 – Present*
   * Duties includes:
 
-* **Project Member** | Deep Reinforcement Learning-based Bi-directional Dynamic Bus Scheduling
+* **Project Member** &emsp; Deep Reinforcement Learning-based Bi-directional Dynamic Bus Scheduling
   * *02/2024 – 07/2024*
   * Duties includes:
 
-* **Project Member** | Fine-tuning Large Language Models to Build Intelligent Customer Service
+* **Project Member** &emsp; Fine-tuning Large Language Models to Build Intelligent Customer Service
   * *05/2024 – 07/2024*
   * Duties includes:
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
 * Conference Paper
   * **Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation**  
   **Ru-Bin Li**, Man Sheng Chen, Xin-Yu Ding, Chang-Dong Wang, Sihong Xie, Shuangyin Liu, Min Chen, Mohsen Guizani  
