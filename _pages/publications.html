@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -27,10 +23,15 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <h2>Conference Papers</h2><hr />
+  <div class="publication-item">
+    <p><strong>Title:</strong> Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation</p>
+    <p><strong>Authors:</strong> Ru-Bin Li, Man Sheng Chen, Xin-Yu Ding, Chang-Dong Wang, Sihong Xie, Shuangyin Liu, Min Chen, Mohsen Guizani.</p>
+    <p><strong>Conference:</strong> International Conference on Data Mining (ICDM), 2024</p>
+    <p><strong>Link:</strong> <a href="../assets/Periodic%20Prompt%20on%20Dynamic%20Heterogeneous%20Graph%20for%20Next%20Basket%20Recommendation.pdf">Download Paper (PDF)</a></p>
+    <div class="publication-figure">
+      <p><strong>Algorithm Figure:</strong></p>
+      <img src="../assets/figures/algorithm_diagram.png" alt="Algorithm Diagram for Next Basket Recommendation" style="max-width: 100%; height: auto;" />
+    </div>
+  </div>
 {% endif %}
-
-
-
