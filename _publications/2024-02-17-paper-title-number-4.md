@@ -18,7 +18,7 @@ figurecaption: 'Algorithm diagram for next basket recommendation presented in th
   <p><strong>Link:</strong> <a href="/assets/Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation.pdf">Download Paper (PDF)</a></p>
   <div class="publication-figure">
     <p><strong>Algorithm Figure:</strong></p>
-    <img src="/assets/figures/algorithm_diagram.png" alt="Algorithm Diagram for Next Basket Recommendation" style="max-width: 100%; height: auto;" />
+    <img src="/assets/DHGP_New.pdf" alt="Algorithm Diagram for DHGP" style="max-width: 100%; height: auto;" />
     <p class="figure-caption">Algorithm diagram for next basket recommendation presented in the paper.</p>
   </div>
 </div>
