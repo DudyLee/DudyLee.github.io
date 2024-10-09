@@ -12,7 +12,7 @@ I am now advised by [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwan
 
 I am a highly self-driven student, eager to further my research in the fields of data science and large language models (LLMs). My research interests include data mining, LLMs, and any related interdisciplinary areas.I am actively seeking a PhD program to further my studies and I am eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
 
-You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/CV_Li%20Rubin%20Sun%20Yat-Sen%20University%2.pdf), Email: lirb7@mail2.sysu.edu.cn.
+You can find my CV and email here: [Rubin Li's Curriculum Vitae](/assets/CV_Li Rubin Sun Yat-Sen University .pdf), Email: lirb7@mail2.sysu.edu.cn.
 
 
 
