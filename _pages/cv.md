@@ -14,9 +14,9 @@ Education
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 ()
 * M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in GitHub, GitHub University, June 2025 (expected)
-  * Core Module: Advanced Mathematics-1, Linear Algebra, Probability and Statistics, Fundamentals of Big Data and
+  * **Core Module**: Advanced Mathematics-1, Linear Algebra, Probability and Statistics, Fundamentals of Big Data and
 Artificial Intelligence, Computer Programming, Data Structures and Algorithms, Signals and Systems.
-  * Language: TOEFL: 103 (Reading: 25; Listening: 28; Speaking: 23; Writing: 27)
+  * **Language**: TOEFL: 103 (Reading: 25; Listening: 28; Speaking: 23; Writing: 27)
 
 Research Experience
 ======
