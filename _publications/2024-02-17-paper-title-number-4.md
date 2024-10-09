@@ -8,7 +8,7 @@ date: 2024-12-9
 venue: 'International Conference on Data Mining, ICDM 2024'
 paperurl: '/assets/DHGP_New.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
-figureurl: '/assets/figures/algorithm_diagram.png'
+figureurl: 'assets/DHGP_New.pdf'
 figurecaption: 'Algorithm diagram for next basket recommendation presented in the paper.'
 ---
 
