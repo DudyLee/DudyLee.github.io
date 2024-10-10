@@ -15,8 +15,8 @@ You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/LrbCV
 
 News
 ======
-*2024.9* **DHGP** paper is accepted by ICDM'24.
-*2024.9* A patent for the application of **LLMs** has been granted.
+*2024.9* &emsp; **DHGP** paper is accepted by ICDM'24.  
+*2024.9* &emsp; A patent for the application of **LLMs** has been granted.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
