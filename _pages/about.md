@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, my name is Rubin Li, and I am currently pursuing a Bachelor’s degree in Telecommunication Engineering at [School of Electronics and Information Technology](https://seit.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am fortunate to be advised by [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn) and [Prof. Xiang CHEN](https://seit.sysu.edu.cn/teacher/ChenXiang).
 
-I am a highly self-driven student, eager to further my research in the fields of **data science** and **large language models (LLMs)**. My research interests include **data mining**, **LLMs**, and any **related interdisciplinary areas**.I am actively seeking a PhD program to further my studies and I am eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
+I am a highly self-driven student, eager to further my research in the fields of **data science** and **large language models (LLMs)**. My research interests include **data mining**, **LLMs**, and any **related interdisciplinary areas**.I am actively seeking a PhD program to further my studies and eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
 
 You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/LrbCV.pdf), Email: lirb7@mail2.sysu.edu.cn.
 
