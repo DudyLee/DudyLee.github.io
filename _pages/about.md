@@ -6,17 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, my name is Rubin Li, and I am currently pursuing a Bachelor’s degree in Telecommunication Engineering at [Sun Yat-sen University](https://www.sysu.edu.cn/). My academic background has provided me with a solid foundation in key areas such as big data, artificial intelligence, and signals and systems. I have gained extensive project experience through both research and internships, including publishing a paper on recommendation systems at ICDM2024 and contributing to patents related to large language models applications. I am passionate about data science and large language models.
+Hello, my name is Rubin Li, and I am currently pursuing a Bachelor’s degree in Telecommunication Engineering at [School of Electronics and Information Technology](https://seit.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am fortunate to be advised by [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn) and [Prof. Xiang CHEN](https://seit.sysu.edu.cn/teacher/ChenXiang).
 
-I am now advised by [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn) of [Allminer Lab](https://github.com/allminerlab), from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen University. 
-
-I am a highly self-driven student, eager to further my research in the fields of data science and large language models (LLMs). My research interests include data mining, LLMs, and any related interdisciplinary areas.I am actively seeking a PhD program to further my studies and I am eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
+I am a highly self-driven student, eager to further my research in the fields of **data science** and **large language models (LLMs)**. My research interests include **data mining**, **LLMs**, and any **related interdisciplinary areas**.I am actively seeking a PhD program to further my studies and I am eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
 
 You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/LrbCV.pdf), Email: lirb7@mail2.sysu.edu.cn.
 
 
-
-
+News
+======
+*2024.9* **DHGP** paper is accepted by ICDM'24.
+*2024.9* A patent for the application of **LLMs** has been granted.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
