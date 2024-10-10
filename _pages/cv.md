@@ -76,7 +76,7 @@ Honor & Certificate
 ======
 * **Successful Participant Award** in Mathematical Contest In Modeling/Interdisciplinary Contest In Modeling (MCM/ICM)
 * **Third Prize** of Guangdong Division in “Datang Cup” National College Student Mobile Communication 5G Technology Competition
-* Winner of Sun Yat-sen University Chimelong Tourist Education Scholarship (recognizing athletic achievements; top 5%)
+* Winner of Sun Yat-sen University Chimelong Tourist Education Scholarship (recognizing athletic achievements; **top 5%**)
 * Champion of Sun Yat-sen University Recreation Cup Basketball Tournament Zhuhai Campus 
 
 <!-- Talks
