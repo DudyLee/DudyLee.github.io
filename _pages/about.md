@@ -15,7 +15,8 @@ You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/LrbCV
 
 News
 ======
-*2024.9* &emsp; **DHGP** paper is accepted by ICDM'24.
+*2024.9* &emsp; **DHGP** paper is accepted by ICDM'24.  
+
 
 *2024.9* &emsp; A patent for the application of **LLMs** has been granted.
 
