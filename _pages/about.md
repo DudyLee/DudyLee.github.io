@@ -8,12 +8,12 @@ redirect_from:
 ---
 Hello, my name is Rubin Li, and I am currently pursuing a Bachelor’s degree in Telecommunication Engineering at [School of Electronics and Information Technology](https://seit.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am fortunate to be advised by [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn).
 
-I am a highly self-driven student, eager to further my research in the fields of **data science** and **large language models (LLMs)**. My research interests include **data mining**, **LLMs**, and any **related interdisciplinary areas**. I am actively seeking a PhD program to further my studies and eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
+I am a highly self-driven student, eager to further my research in the fields of **data science**, **large language models (LLMs)** and any **related interdisciplinary areas**. I am actively seeking a PhD or Mphil program to further my studies and eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
 
 You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/LrbCV.pdf), Email: lirubin0108@163.com.
 
 
-#News
+News
 ======
 *2024.9* &emsp; **DHGP** paper is accepted by ICDM'24.  
 
@@ -21,11 +21,11 @@ You can find my CV and email here: [Rubin Li's Curriculum Vitae](../assets/LrbCV
 *2024.9* &emsp; A patent for the application of **LLMs** has been granted.
 
 
-#Personal Information
-======
+# Personal Information
+
 
 Education
-======
+------
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 ()
 * M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in School of Electronics and Information Technology, Sun Yat-sen University, June 2025 (expected)
@@ -34,7 +34,7 @@ Artificial Intelligence, Computer Programming, Data Structures and Algorithms, S
   * **Language**: TOEFL: 103 (Reading: 25; Listening: 28; Speaking: 23; Writing: 27)
 
 Research Experience
-======
+------
 * **Project Leader** &emsp; Analyze Travel Purpose Through Transportation Origin-Destination Data
   * *02/2024 – Present*
   * **Led a team collaborating with Guangzhou Jiaoxintou Technology Co., Ltd.,** conducting weekly progress meetings to deliver data-driven insights.
@@ -51,7 +51,7 @@ Research Experience
   * **Utilized large language model APIs** to convert ticket information into usable training data, creating a complete workflow.
 
 Publications
-======
+------
 
 * Conference Paper
   * **Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation**  
@@ -67,7 +67,7 @@ Publications
   
 
 Intership Experience
-======
+------
 * 07/2023– 08/2023: &emsp; **Shenzhen Kingdom Technology Co., Ltd.**
   * Intern, Informatization Management Department
   * Clustered customers based on effective user features from massive data, and optimized existing clustering
@@ -88,7 +88,7 @@ each food ingredient to understand the choices of the company's present food pai
 
 
 Honor & Certificate
-======
+------
 * **Successful Participant Award** in Mathematical Contest In Modeling/Interdisciplinary Contest In Modeling (MCM/ICM)
 * **Third Prize** of Guangdong Division in “Datang Cup” National College Student Mobile Communication 5G Technology Competition
 * Winner of Sun Yat-sen University Chimelong Tourist Education Scholarship (recognizing athletic achievements; **top 5%**)
