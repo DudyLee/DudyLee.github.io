@@ -21,9 +21,8 @@ News
 *2024.9* &emsp; A patent for the application of **LLMs** has been granted.
 
 
+
 # Personal Information
-
-
 Education
 ------
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 ()
