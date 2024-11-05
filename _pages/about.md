@@ -27,7 +27,7 @@ News
 Education
 ------
 
-* B.S. in School of Electronics and Information Technology, Sun Yat-sen University, June 2025 (expected)
+* B.Eng. in School of Electronics and Information Technology, Sun Yat-sen University, June 2025 (expected)
   * **Core Module**: Advanced Mathematics-1, Linear Algebra, Probability and Statistics, Fundamentals of Big Data and
 Artificial Intelligence, Computer Programming, Data Structures and Algorithms, Signals and Systems.
   * **Language**: TOEFL: 103 (Reading: 25; Listening: 28; Speaking: 23; Writing: 27)
