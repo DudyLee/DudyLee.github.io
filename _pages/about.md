@@ -43,9 +43,9 @@ Publications
 
 * Patents
   * **A Communication Guideline System and Method Based on chatGLM Model** 
-    * Second Inventor &emsp; Patent No.: CN202410235369.4
+    * Second Inventor &emsp; Patent No.: ZL 2024 1 0235369.4
   * **An Integrated Service System for Agricultural Supply Chain Based on 5G Network**
-    * Second Inventor &emsp; Patent No.: CN202311290141.7
+    * Second Inventor &emsp; Patent Application No.: CN202311290141.7
   
 
 Research Experience
