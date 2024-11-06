@@ -32,6 +32,22 @@ Education
 Artificial Intelligence, Computer Programming, Data Structures and Algorithms, Signals and Systems.
   * **Language**: TOEFL: 103 (Reading: 25; Listening: 28; Speaking: 23; Writing: 27)
 
+Publications
+------
+
+* Conference Paper
+  * **Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation**  
+  **Ru-Bin Li**, Man Sheng Chen, Xin-Yu Ding, Chang-Dong Wang, Sihong Xie, Shuangyin Liu, Min Chen, Mohsen Guizani  
+  ICDM 2024  
+  [[Paper]](../assets/Periodic%20Prompt%20on%20Dynamic%20Heterogeneous%20Graph%20for%20Next%20Basket%20Recommendation.pdf) / [Code]
+
+* Patents
+  * **A Communication Guideline System and Method Based on chatGLM Model** 
+    * Second Inventor &emsp; Patent No.: CN202410235369.4
+  * **An Integrated Service System for Agricultural Supply Chain Based on 5G Network**
+    * Second Inventor &emsp; Patent No.: CN202311290141.7
+  
+
 Research Experience
 ------
 * **Project Leader** &emsp; Analyze Travel Purpose Through Transportation Origin-Destination Data
@@ -49,21 +65,7 @@ Research Experience
   * **Processed and analyzed** over 100,000 customer service tickets, applying NLP methods to extract features and perform secondary classification.
   * **Utilized large language model APIs** to convert ticket information into usable training data, creating a complete workflow.
 
-Publications
-------
 
-* Conference Paper
-  * **Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation**  
-  **Ru-Bin Li**, Man Sheng Chen, Xin-Yu Ding, Chang-Dong Wang, Sihong Xie, Shuangyin Liu, Min Chen, Mohsen Guizani  
-  ICDM 2024  
-  [[Paper]](../assets/Periodic%20Prompt%20on%20Dynamic%20Heterogeneous%20Graph%20for%20Next%20Basket%20Recommendation.pdf) / [Code]
-
-* Patents
-  * **A Communication Guideline System and Method Based on chatGLM Model** 
-    * Second Inventor &emsp; Patent No.: CN202410235369.4
-  * **An Integrated Service System for Agricultural Supply Chain Based on 5G Network**
-    * Second Inventor &emsp; Patent No.: CN202311290141.7
-  
 
 Intership Experience
 ------
